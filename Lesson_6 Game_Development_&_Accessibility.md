@@ -202,8 +202,6 @@ recognition.addEventListener("result", function(event) {
 ✅ **Test your game with keyboard-only navigation** (No mouse!).  
 ✅ **Try using a screen reader to test game announcements**.  
 
-📢 **Next Lesson:** **Introduction to Backend & APIs for Accessibility – Connecting Web Apps to AI & Speech Services!** 🚀  
-
 ---
 
 ## 🛠️ Additional Resources  
